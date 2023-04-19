@@ -1,0 +1,243 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="css.css">
+        <title></title>
+    </head>
+    <body>
+        <div class="navbar">
+        <img src="logo.png" height="120" width="200">
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Menu</a></li>
+            <li><a href="#">Recommendations</a></li>
+            <li><a href="#">Contact</a></li>
+           </ul>
+        </div>
+        <hr width="1200" color="black">
+        <img src="zomatogold.jpg" height="250" width="1500">
+        <div class="main">
+            <div class="content">
+                <h1>Hungry??<span>treat yourself</span><br>order now</h1>
+            </div>
+                <img src="food.png" height="460" width="600">
+        </div>
+        <p>Welcome to our restaurant's website, where we invite you to indulge in a culinary experience like no other. Our menu is carefully crafted to cater to a variety of tastes, from mouthwatering appetizers to delectable entrees and irresistible desserts. We use only the freshest ingredients to ensure that each dish is bursting with flavor and prepared to perfection. Our cozy and inviting atmosphere will make you feel right at home, whether you're enjoying a romantic dinner for two or a lively gathering with friends and family. With friendly and attentive service, we promise to provide you with an unforgettable dining experience. So come join us and let us take your taste buds on a journey you won't soon forget</p>
+        <div class="order">
+          <a href="#">Order Now</a>      
+        </div>
+
+        <img src="winner.jpg" height="150" width="1500">
+
+
+
+
+        <div class="menu" id="Menu">
+            <h1>Our<span>Menu</span></h1>
+    
+            <div class="menu_box">
+                <div class="menu_card">
+    
+                    <div class="menu_image">
+                        <img src="prawns.jpg">
+                    </div>
+    
+    
+                    <div class="menu_info">
+                        <h2>Prawns</h2>
+                        <h3>₹650</h3>
+                        <a href="#" class="menu_btn">Order Now</a>
+                    </div>
+                    <img src="stars.png" height="180" width="200">
+    
+                </div> 
+                
+                <div class="menu_card">
+    
+                    <div class="menu_image">
+                        <img src="biryani.jpg">
+                    </div>
+    
+    
+                    <div class="menu_info">
+                        <h2>Biryani</h2>
+                        <h3>₹400</h3>
+                        <a href="#" class="menu_btn">Order Now</a>
+                    </div>
+                    <img src="stars.png" height="180" width="200">
+    
+                </div> 
+    
+                <div class="menu_card">
+    
+                    <div class="menu_image">
+                        <img src="burger.jpg">
+                    </div>
+    
+    
+                    <div class="menu_info">
+                        <h2>Burger</h2>
+                        <h3>₹250</h3>
+                        <a href="#" class="menu_btn">Order Now</a>
+                    </div>
+                    <img src="stars.png" height="180" width="200">
+    
+                </div> 
+    
+                <div class="menu_card">
+    
+                    <div class="menu_image">
+                        <img src="samosa.jpg">
+                    </div>
+    
+                    <div class="menu_info">
+                        <h2>Samosa</h2>
+                        <h3>₹40</h3>
+                        <a href="#" class="menu_btn">Order Now</a>
+                    </div>
+                    <img src="stars.png" height="180" width="200">
+    
+                </div> 
+    
+                <div class="menu_card">
+    
+                    <div class="menu_image">
+                        <img src="cholebhature.jpg">
+                    </div>
+    
+    
+                    <div class="menu_info">
+                        <h2>Chole Bhature</h2>
+                        <h3>₹200</h3>
+                        <a href="#" class="menu_btn">Order Now</a>
+                    </div>
+                    <img src="stars.png" height="180" width="200">
+    
+                </div> 
+    
+                <div class="menu_card">
+    
+                    <div class="menu_image">
+                        <img src="paneerroll.jpg">
+                    </div>
+    
+                    <div class="menu_info">
+                        <h2>Paneer Roll</h2>
+                        <h3>₹150</h3>
+                        <a href="#" class="menu_btn">Order Now</a>
+                    </div>
+                    <img src="stars.png" height="180" width="200">
+    
+                </div> 
+    
+                <div class="menu_card">
+    
+                    <div class="menu_image">
+                        <img src="chocolavacake.jpg">
+                    </div>
+    
+                    <div class="menu_info">
+                        <h2>Chocolava cake</h2>
+                        <h3>₹99</h3>
+                        <a href="#" class="menu_btn">Order Now</a>
+                    </div>
+                    <img src="stars.png" height="180" width="200">
+    
+                </div> 
+    
+                <div class="menu_card">
+    
+                    <div class="menu_image">
+                        <img src="mojito.jpg">
+                    </div>
+    
+                    <div class="menu_info">
+                        <h2>Mojito</h2>
+                        <h3>₹120</h3>
+                        <a href="#" class="menu_btn">Order Now</a>
+                    </div>
+                    <img src="stars.png" height="180" width="200">
+        </div>
+        
+    </div>
+
+    <div class="temp">
+        <img src="ad.jpg" width="1200" height="500">
+    </div>
+    <div class="galhead">
+        <h1>Our<span>Restraunt</span></h1>
+        </div>
+    </div>
+    
+        <br>
+
+        <div class="gallery">
+            <img src="rest.jpg" width="1300" height="700">
+        </div>
+
+
+
+
+        <div class="review" id="Review">
+            <h1>Customer<span>Review</span></h1>
+    
+            <div class="review_box">
+                <div class="review_card">
+    
+                    <div class="review_profile">
+                        <img src="prof1.jpg">
+                    </div>
+    
+                    <div class="review_text">
+                        <h2 class="name">Simran Kaur</h2>
+    
+    
+                    </div>
+    
+                </div>
+    
+                <div class="review_card">
+    
+                    <div class="review_profile">
+                        <img src="prof2.jpg">
+                    </div>
+    
+                    <div class="review_text">
+                        <h2 class="name">Raj maliya</h2>
+    
+                    </div>
+    
+                </div>
+    
+                <div class="review_card">
+    
+                    <div class="review_profile">
+                        <img src="prof3.jpg">
+                    </div>
+    
+                    <div class="review_text">
+                        <h2 class="name">Ram shastri</h2>
+    
+    
+                    </div>
+    
+                </div>
+    
+                <div class="review_card">
+    
+                    <div class="review_profile">
+                        <img src="prof4.jpg">
+                    </div>
+    
+                    <div class="review_text">
+                        <h2 class="name">Sita gupta</h2>
+    
+                    </div>
+    
+                </div>
+    
+            </div>
+    
+        </div>
+
+    </body>
+</html>
